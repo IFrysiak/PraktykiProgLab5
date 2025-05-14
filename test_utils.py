@@ -1,4 +1,5 @@
 """Exemplary calculator tests"""
+
 import pytest
 import utils
 
